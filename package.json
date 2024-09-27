@@ -69,8 +69,8 @@
   },
   "dependencies": {
     "@panter/vue-i18next": "^0.15.2",
-    "body-parser": "^1.20.2",
-    "express": "^4.19.2",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
     "express-handlebars": "^5.3.1",
     "i18next": "^19.3.1",
     "i18next-browser-languagedetector": "^4.0.1",
